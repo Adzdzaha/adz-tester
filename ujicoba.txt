@@ -1,3 +1,5 @@
 ini hanya uji coba untuk tugas!!
 tester
-ujicoba
+  mencoba memahami css
+  mencoba memahami javascript
+GitHub
