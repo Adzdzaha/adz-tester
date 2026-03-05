@@ -1,5 +1,5 @@
 ini hanya uji coba untuk tugas!!
 tester
-  mencoba memahami css
-  mencoba memahami javascript
-GitHub
+  mencoba belajar codding php
+ujicoba
+  mencoba belajar codding python
